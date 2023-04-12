@@ -1,0 +1,3 @@
+Toy id - 50, name - fishka, weight - 3
+Toy id - 50, name - fishka, weight - 5
+Toy id - 20, name - SnoopDoggyDog, weight - 15
